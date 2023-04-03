@@ -19,5 +19,11 @@ axios
 express
 cors
 
+**Additional functionalities in the future: 
+- style changing: mark as red the negative values and green for the positive.
+- table import for the second page
+- add icons for each coin 
+- third page which displays which coin has the best performance last week/month/year
+
 
 ![cryptoprices](https://user-images.githubusercontent.com/50466054/229404413-ae2177a3-f998-4c6b-8b35-e5f4035d6771.png)
