@@ -18,3 +18,6 @@ react-router-dom
 axios
 express
 cors
+
+
+![cryptoprices](https://user-images.githubusercontent.com/50466054/229404413-ae2177a3-f998-4c6b-8b35-e5f4035d6771.png)
